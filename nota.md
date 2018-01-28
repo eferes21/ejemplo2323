@@ -1,15 +1,11 @@
 # NOTA
  ---
- ``` python
+ ``` python 
  from Tkinter import *
 
 root = Tk()
 root.title ("Inventario")
 root.iconbitmap('ico-inventario.ico')
-
-
-
-
 
 frame=Frame(root)
 frame.pack (fill='both',expand=1)
@@ -20,4 +16,11 @@ frame.config ( bg= "#034C3C")
 label=Label(frame, text= "Panel de inventario")
 label.place (x=0, y=0)
 label.config ( bg= "#034C3C",font=("Segoe UI Negra", 24),fg='red')
- ´´´
+ ```
+
+ 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
