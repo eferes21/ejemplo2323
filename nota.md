@@ -1,5 +1,6 @@
 # NOTA
  ---
+
  ``` python 
  from Tkinter import *
 
@@ -24,3 +25,6 @@ label.config ( bg= "#034C3C",font=("Segoe UI Negra", 24),fg='red')
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
+
+<a href="https://www.youtube.com/watch?v=FYGiNDLHEgU" target="_blank"><img src="https://img.youtube.com/vi/FYGiNDLHEgU/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
